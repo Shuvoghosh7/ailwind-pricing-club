@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>ctailwind-pricing-club</h1>
+      <h1 className='text-3xl font-bold underline text-yellow-300'>ctailwind-pricing-club</h1>
     </div>
   );
 }
